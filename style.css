@@ -39,7 +39,12 @@
     max-width: 100%;
     height: auto;
   }
-  
+
+video {
+  margin: 50px 0 0;
+  max-width: 100%;
+  height: auto;
+}
   .logo {
     margin-bottom: 30px;
   
